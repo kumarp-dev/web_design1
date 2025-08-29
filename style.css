@@ -1,0 +1,35 @@
+body{
+    border: 5px solid black;
+    margin: 5%left 5%right 15%bottom 5%top;
+    background-color: hsla(182, 25%, 72%, 0.784);
+}
+
+p{
+    text-align: center;
+    color: blueviolet;
+    font-size: medium;
+}
+h1{
+    
+    color: darkgreen;
+    font-size: xx-large;
+}
+h2{
+    color: darkgoldenrod;
+    
+}
+h3{
+    color: darkcyan;
+    
+}
+h4{
+    color: blue;
+    
+}
+ol{ 
+    color: brown ;
+}
+ul{ 
+    color: hsl(124, 80%, 31%) ;
+     
+}
